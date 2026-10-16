@@ -1,9 +1,10 @@
 # HyperNRLMF
-预实验 2：双曲嵌入与欧氏嵌入的初步性能对比（思路可行性验证）
 
 
-The manuscript has been submitted to the following journal:
+## Citation
 
-Title: HyperNRLMF: Hyperbolic Neighborhood Regularized Logistic Matrix Factorization for MicroRNA–Disease Association Prediction
+This study is currently being submitted for publication. If you use this code or dataset, please cite the associated manuscript when citation details become available.
 
-Journal: Engineering Applications of Artificial Intelligence
+**Manuscript title:** *HyperNRLMF: Hyperbolic Neighborhood Regularized Logistic Matrix Factorization for MicroRNA–Disease Association Prediction*
+
+The full citation, DOI, and publication information will be updated upon acceptance.
